@@ -1,6 +1,6 @@
 # Responsive Travel Website 🌊
 
-## [Checkout Here](https://msaini0r.github.io/Travel-Website/)
+## [Checkout Here](https://singhbal26.github.io/Travel-Website//)
 
 ### Responsive Travel Website 🌊
 
